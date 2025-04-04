@@ -59,7 +59,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://github.com/Amankumarsingh78/frontend-project"
                     target="_blank"
                   >
                     Source Code
